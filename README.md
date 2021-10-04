@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UNIQQUK
+- 👋 Hi, 
 - 👀 I’m interested in AI.
 - 🌱 I’m currently learning Google Cloud Platform.
 - 💞️ I’m looking to collaborate on AI settings.
