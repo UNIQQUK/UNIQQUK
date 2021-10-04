@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @UNIQQUK
+- 👀 I’m interested in AI.
+- 🌱 I’m currently learning Google Cloud.
+- 💞️ I’m looking to collaborate on AI settings.
+- 📫 How to reach me development of my online store uniqq.co.uk
